@@ -1,0 +1,92 @@
+List producto = [
+  {
+    'title': 'Recortador Phillips Cara, Cabello y Cuerpo Mg5730',
+    'price': 'S/ 237.15 ',
+    'por': '12x S/19.76',
+    'gratis': false,
+    'cantidad': '1',
+    'disponible': '30',
+    'img': [
+      '00product00.png',
+      '00product01.png',
+      '00product02.png',
+    ],
+    'marca': 'Phillips',
+    'descripcion': 'Cortadora de pelo Phillips',
+    'vendidos': '20',
+    'favorito': false,
+    'esBueno': false,
+    'ubicacion': 'Puente Piedra, Lima Metropolitana',
+    'ventasEnUltimos120': '120',
+  },
+  {
+    'title': 'Asus Tuf F15 144hz',
+    'price': 'S/ 5 599.20',
+    'por': '12x S/466.50',
+    'gratis': true,
+    'cantidad': '1',
+    'disponible': '3',
+    'img': [
+      '01product00.png',
+      '01product01.png',
+      '01product02.png',
+    ],
+    'marca': 'Asus',
+    'descripcion': 'Laptop gamer con teclado retroiluminado',
+    'vendidos': '2',
+    'favorito': false,
+    'esBueno': true,
+    'ubicacion': 'Lima, Lima Metropolitana',
+    'ventasEnUltimos120': '71',
+  },
+  {
+    'title': 'Smart TV LG AI ThinQ LCD 4k 50',
+    'price': 'S/ 2 599.20',
+    'por': '12x S/270.50',
+    'gratis': true,
+    'cantidad': '1',
+    'disponible': '8',
+    'img': [
+      '02product00.png',
+      '02product01.png',
+      '02product02.png',
+    ],
+    'marca': 'LG',
+    'descripcion':
+        'LG innovación y eso se ve en cada 1 de sus productos tecnológicos pensado especialmente para toda la familia disfrute más de la vida, tener un televisor LG es aprovechar la más alta calidad del mercado',
+    'vendidos': '4',
+    'favorito': true,
+    'esBueno': false,
+    'ubicacion': 'Lima, Lima Metropolitana',
+    'ventasEnUltimos120': '39',
+  },
+  {
+    'title': 'Poco F4 Night Black 8GB - 256GB',
+    'price': 'S/ 1,789.00',
+    'por': '12x S/66.50',
+    'gratis': false,
+    'cantidad': '1',
+    'disponible': '16',
+    'img': [
+      '03product00.png',
+      '03product01.png',
+      '03product02.png',
+    ],
+    'marca': 'Xiaomi',
+    'descripcion':
+        '- Pantalla: 6.67", 1080 x 2400 pixels\n- Procesador: Snapdragon 870 5G 3.2GHz\n- RAM: 6GB/8GB\n- Almacenamiento: 128GB/256GB\n- Expansión: microSD\n- Cámara: Triple, 64MP+8MP+2MP\n- Batería: 4500 mAh\n- OS: Android 12',
+    'vendidos': '2',
+    'favorito': false,
+    'esBueno': true,
+    'ubicacion': 'Lima, Lima Metropolitana',
+    'ventasEnUltimos120': '12',
+  },
+];
+
+//PageView Home
+
+List pageViewHome = [
+  'assets/01scroll.png',
+  'assets/02scroll.png',
+  'assets/03scroll.png',
+];
